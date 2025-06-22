@@ -4,6 +4,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 
+🔗 **Live Demo:** [Click here to try the app]([https://your-app-name.streamlit.app](https://heart-disease-risk-predictor-adityaaggarwal.streamlit.app/))
+
 > Predict your risk of heart disease in seconds using this interactive, ML-powered health app.
 
 ---
