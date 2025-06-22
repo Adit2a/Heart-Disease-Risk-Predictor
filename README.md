@@ -26,4 +26,4 @@ This **Heart Disease Risk Predictor** is a machine learning web application buil
 🔒 No data is stored or shared
 
 ---
-# Heart-Disease-Risk-Predictor
+
